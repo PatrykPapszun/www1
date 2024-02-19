@@ -1,3 +1,9 @@
 body{
     background-color: darkcyan;
 }
+div{
+    border: solid;
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
